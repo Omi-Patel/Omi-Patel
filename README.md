@@ -4,7 +4,7 @@
 
 🎓IT Student,<br>✨A Passionate 💻 Web Developer and code enthusiast 💜 from India.<br>
 
-🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at : https://linktr.ee/Om_Patel_07<br>
+🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07<br>
 📫 How to reach me : omipatel7113@gmail.com 
 
 
