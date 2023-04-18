@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi 👋, I'm Om Patel<br>🎓IT Student,<br>✨A Passionate 💻 Web Developer and code enthusiast 💜 from India.<br>
+# Hi 👋, I'm Om Patel
+<h3>💫 About Me:</h3>
+🎓IT Student,<br>✨A Passionate 💻 Web Developer and code enthusiast 💜 from India.<br>
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF" align="right" width="400px">
 🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my projects are available at : https://linktr.ee/Om_Patel_07<br>📫 How to reach me : omipatel7113@gmail.com
 
