@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="GIF" align="right" width="390px">
 <h1> Hi 👋, I'm Om Patel</h1>
-<h3>💫 About Me:</h3>
+<h3>💫 About Me :</h3>
 
 🎓Currently, I am pursuing BE in the IT department.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>
 🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07<br>
