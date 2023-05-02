@@ -3,7 +3,7 @@
 <h3>💫 About Me :</h3>
 
 🎓Currently, I am pursuing BE in the IT Department.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>
-🔭 I’m currently working on Frontend Development<br>🌱 I’m currently learning React<br>👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07<br>
+🔭 I’m currently working on Frontend Development<br>🌱 I’m Currently learning React<br>👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07<br>
 📫 How to reach me : omipatel7113@gmail.com 
 
 
