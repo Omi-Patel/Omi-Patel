@@ -2,13 +2,13 @@
 <br>
 <br>
 
-<h1 align='center'><samp> Hey There 👋, I'm <strong>Om Patel</strong></samp></h1>
+<h1 align='center'> Hey There 👋, I'm <strong>Om Patel<strong></h1>
 
 <p align='center'>| Web Developer | Full-Stack JavaScript | Node/React Developer | DSA </p>
 
-<p align='left'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
+<p align='center'> 📫 As someone who is always passionate for learning more about tech and life. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies.</p>
 
-Programmer specialized in **web development** using multiple **tools, frameworks and libraries** both in frontend and backend. I pay *a lot of attention to detail* to generate best products.
+<p align='center'>Programmer specialized in <strong>Web Development</strong> using multiple tools, frameworks and libraries both in Frontend and Backend. I pay a lot of attention to detail to generate best products.</p>
 
 <hr>
 
