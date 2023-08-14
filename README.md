@@ -2,7 +2,9 @@
 <br>
 <br>
 
-<h1 align='center'> Hey There 👋, I'm <strong>Om Patel<strong></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Patel!;" />
+</h1>
 
 <p align='center'>| Web Developer | Full-Stack JavaScript | Node/React Developer | DSA </p>
 
@@ -54,3 +56,7 @@
 [![](https://visitcount.itsvg.in/api?id=Omi-Patel&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
