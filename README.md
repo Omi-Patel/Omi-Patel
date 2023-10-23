@@ -49,6 +49,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Omi-Patel&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
