@@ -45,7 +45,7 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Omi-Patel&theme=solarized-dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
