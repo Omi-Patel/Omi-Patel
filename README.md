@@ -46,17 +46,20 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Omi-Patel&theme=solarized-dark&hide_border=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omi-Patel&theme=solarized-dark&hide_border=true)<br/>  -->
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Omi-Patel&theme=solarized-dark&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
-
-[![Omi-Patel's GitHub | Stats](https://stats.quine.sh/Omi-Patel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel)
+<!-- [![Omi-Patel's GitHub | Stats](https://stats.quine.sh/Omi-Patel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel)
 <br>
 <br>
-[![Omi-Patel's GitHub | Languages Over Time](https://stats.quine.sh/Omi-Patel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel)
+[![Omi-Patel's GitHub | Languages Over Time](https://stats.quine.sh/Omi-Patel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Omi-Patel) -->
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+<!-- ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Omi-Patel&theme=solarized-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  -->
 
 
 ### ✍️ Random Dev Quote:
