@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Om+Patel!;" />
 </h1>
 
-<p align='center'>| Web Developer | Full-Stack JavaScript | Node/React | Java | DSA </p>
+<p align='center'>| Web Developer | Full-Stack JavaScript | MERN-Stack | NextJS | Java | DSA </p>
 
 <p align='center'> 📫 As someone who is always passionate for learning more about tech and life💻. I love to develop web scripts static websites and ever since been a self taught software developer also unstopped learner. I have evolved into a Full Stack Javascript career path, and loves working with cutting edge tools and technologies🚀.</p>
 
