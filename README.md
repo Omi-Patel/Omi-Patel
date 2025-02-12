@@ -20,7 +20,7 @@
 
 
 🎓Currently, I am pursuing Bachelor's in Information Technology.<br>✨A Passionate 💻 Web Developer and Code Enthusiast 💜 from India.<br>
-🔭 I’m currently working on Java Backend Development<br>🌱 I’m currently learning React<br>     👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07 <br>
+🔭 I’m currently working on Java Backend Development<br>🌱 I’m currently learning Micro-Services<br>     👨‍💻 All of my links are available at : https://linktr.ee/Om_Patel_07 <br>
 📫 How to reach me : omipatel7113@gmail.com 
 
 
